@@ -1,8 +1,6 @@
-#**Part One
-Introduction**
+#**Part One: Introduction**
 
-##**Chapter 1
-User guide**
+##**Chapter 1: User guide**
 
 ###**1-1. Purpose and scope**
 
