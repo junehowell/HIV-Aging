@@ -2,17 +2,17 @@
 
 ##Part One: Introduction
 
-Chapter 1 User guide_ _ _ _ _ _ _ _ _ _	_ _ _ 1-1 to 1-4
+Chapter 1 User guide: 1-1 to 1-4
 
-Chapter 2 Chronic HIV and its effects_ _ _ _ _2-1 to 2-4
+Chapter 2 Chronic HIV and its effects: 2-1 to 2-4
 
 ##Part Two: Common problems in people aging with HIV
 
-Chapter 3 Pain_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 3-1 to 3-8
+Chapter 3 Pain...............................3-1 to 3-8
 
-Chapter 4 Too many pills_ _ _ _ _ _ _ _ _ _ _ 4-1 to 4-7
+Chapter 4 Too many pills.....................4-1 to 4-7
 
-Chapter 5 Memory problem_ _ _ _ _ _ _ _ _ _ _ 5-1 to 5-6
+Chapter 5 Memory problem.....................5-1 to 5-6
 
 Chapter 6 Weakness/frailty_ _ _ _ _ _ _ _ _ _ 6-1 to 6-10
 
