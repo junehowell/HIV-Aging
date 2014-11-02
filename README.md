@@ -6,12 +6,10 @@ HIV-Aging
 ##This manual is:
 - For people aging with HIV: The manual describes common health problems that come with chronic HIV infection. Since many of these problems cannot be cured at present, the manual focuses on how to manage them, so that you can age well despite them.
 - Focused: To keep the manual easy to read, we limit each chapter to 3 sections: 
-	
-1. what is the problems? 
+				1. What is the problems? 
+				2. Why is it important? 
+				3. What should you do about it? 
 
-2. why is it important? 
-
-3. what should you do about it? 
 - For everyone: We made this manual for people of all ages, cultures, income levels, and reading skills. To achieve this, we provide the manual for free, and keep reading skill required at the 5th grade level. If a child wants to read this manual, we want to make sure they can understand it.
 
 ##This manual is not:
