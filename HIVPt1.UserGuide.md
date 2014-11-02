@@ -8,7 +8,10 @@
 
 - *For everyone*: We made this manual for people of all ages, cultures, income levels, and reading skills. To achieve this, we provide the manual for free, and keep reading skill required at the 5th grade level. If a child wants to read this manual, we want to make sure they can understand it.
 
-- *Focused*: To keep the manual easy to read, we limit each chapter to 3 sections: What is the problems? Why is it important? What should you do about it?
+- *Focused*: To keep the manual easy to read, we limit each chapter to 3 sections: 
+  1. What is the problems? 
+  2. Why is it important? 
+  3. What should you do about it?
 
 - *Concise*: The manual leaves out contents you do not need. For example, it does not include tests that will be ordered, or pills used to treat the disease. This is because your doctor will figure these out with you. 
 
