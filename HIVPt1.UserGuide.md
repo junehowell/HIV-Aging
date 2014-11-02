@@ -2,7 +2,7 @@
 
 ##Chapter 1: User guide
 
-####This manual is:
+####1-1. This manual is:
 
 - *For people aging with HIV*: The manual describes common health problems that come with chronic HIV infection. Since many of these problems cannot be cured at present, the manual focuses on how to manage them, so that you can age well despite them.
 
@@ -12,7 +12,7 @@
 
 - *Concise*: The manual leaves out contents you do not need. For example, it does not include tests that will be ordered, or pills used to treat the disease. This is because your doctor will figure these out with you. 
 
-####This manual is not:
+####1-2. This manual is not:
 
 - *A guide to HIV as a disease in general*: This would make the manual long and unfocused. Instead, it focuses mostly on problems that occur in people aging with HIV and what to do about them.
 
@@ -20,7 +20,7 @@
 
 - *A replacement for doctors’ visits*: The manual gives general advice on HIV and aging issues. But, it is not specific to each person and will never be as good as your doctor’s advice. Always follow doctor’s advice, even if it is not the same as the advice in this manual. 
 
-####Outline of the manual
+####1-3. Outline of the manual
 
 Part one gives brief details about HIV and its general effects on aging. Part two outlines the most common problems with chronic HIV. Each chapter in part two is divided into 3 sections:
 
@@ -30,13 +30,13 @@ b.	*What to do with your doctor*: This section alerts you to things you need to 
 
 c.	*What to do on your own*: This section focuses on things you need to do on your own to solve the problems. Your doctor can guide you through this section and answer questions you may have. But, you will have to take the steps yourself. 
 
-####How to use the manual:
+####1-4. How to use the manual:
 
 - Who: People aging with HIV, their loved ones, or anyone, really. 
 - When: Any time, but better before doctor’s visit. This way, you know what you need to talk to the doctor about.
 - How: You can read it from start to finish. Or, you can pick only the chapters that apply to you. Each chapter makes sense on its own. You do not need to read prior chapters to understand it.
 - Where: Read on the website. Or, if you have problems reading on the computer screen, download the PDF and print it on a white A4 paper. 
 
-####Comments, suggestions, questions
+####1-5. Comments, suggestions, questions
 
 We welcome reader’s comments, suggestions and questions. Please see *To Contribute* section for detail.
