@@ -6,7 +6,7 @@ HIV-Aging
 ##This manual is:
 
 - *For people aging with HIV*: The manual describes common health problems that come with chronic HIV infection. Since many of these problems cannot be cured at present, the manual focuses on how to manage them, so that you can age well despite them.
-- *For everyone*: We made this manual for people of all ages, cultures, income levels, and reading skills. To achieve this, we provide the manual for free, and keep reading skill required at the 5th grade level. If a child wants to read this manual, we want to make sure they can understand it.
+- *For everyone*: We made this manual for people of all ages, cultures, income levels, and reading skills. To achieve this, we provide the manual for free, and keep reading skill required at the 6th grade level. If a child wants to read this manual, we want to make sure they can understand it.
 - *Focused*: To keep the manual easy to read, we limit each chapter to 3 sections: What is the problems? Why is it important? What should you do about it?
 - *Concise*: The manual leaves out contents you do not need. For example, it does not include tests that will be ordered, or pills used to treat the disease. This is because your doctor will figure these out with you. 
 
@@ -38,4 +38,4 @@ c.	*What to do on your own*: This section focuses on things you need to do on yo
 - Every chapter must be shorter than 2 pages. This way, people with short focus can still read it.
 - Every paragraph must be shorter than 7 lines. This way, people with short focus can still read it. If your paragraph is longer than 7 lines, try cutting it into smaller sections.
 - Every word must be shorter than 12 characters AND 4 syllables. Try using shorter words with the same meaning whenever you can. The only time you can break this rule is when you need to describe a specific term related to HIV. In this case, you must explain the term in words shorter than 12 characters AND 4 syllables.
-- The reading skill required must not be higher than 5th grade.
+- The reading skill required must not be higher than 6th grade.
