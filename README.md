@@ -6,14 +6,22 @@ HIV-Aging
 ##This manual is:
 
 - *For people aging with HIV*: The manual describes common health problems that come with chronic HIV infection. Since many of these problems cannot be cured at present, the manual focuses on how to manage them, so that you can age well despite them.
+
 - *For everyone*: We made this manual for people of all ages, cultures, income levels, and reading skills. To achieve this, we provide the manual for free, and keep reading skill required at the 6th grade level. If a child wants to read this manual, we want to make sure they can understand it.
-- *Focused*: To keep the manual easy to read, we limit each chapter to 3 sections: What is the problems? Why is it important? What should you do about it?
+
+- *Focused*: To keep the manual easy to read, we limit each chapter to 3 sections: 
+  1. What is the problems? 
+  2. Why is it important? 
+  3. What should you do about it?
+
 - *Concise*: The manual leaves out contents you do not need. For example, it does not include tests that will be ordered, or pills used to treat the disease. This is because your doctor will figure these out with you. 
 
 ##This manual is not:
 
 - *A guide to HIV as a disease in general*: This would make the manual long and unfocused. Instead, it focuses mostly on problems that occur in people aging with HIV and what to do about them.
+
 - *A detailed guide on common health problems in chronic HIV*: The science behind these problems are complex and not yet well understood. To describe it, the manual might become hard to understand and not everyone will be able to read it. Also, we do not need to know all the science behind it to understand what should be done.
+
 - *A replacement for doctors’ visits*: The manual gives general advice on HIV and aging issues. But, it is not specific to each person and will never be as good as your doctor’s advice. Always follow doctor’s advice, even if it is not the same as the advice in this manual. 
 
 ##Outline of the manual
@@ -28,10 +36,10 @@ c.	*What to do on your own*: This section focuses on things you need to do on yo
 
 ##How to use the manual:
 
-- Who: People aging with HIV, their loved ones, or anyone, really. 
-- When: Any time, but better before doctor’s visit. This way, you know what you need to talk to the doctor about.
-- How: You can read it from start to finish. Or, you can pick only the chapters that apply to you. Each chapter makes sense on its own. You do not need to read prior chapters to understand it.
-- Where: Read on the website. Or, if you have problems reading on the computer screen, download the manual to your computer and print it on a white paper. 
+- *Who*: People aging with HIV, their loved ones, or anyone, really. 
+- *When*: Any time, but better before doctor’s visit. This way, you know what you need to talk to the doctor about.
+- *How*: You can read it from start to finish. Or, you can pick only the chapters that apply to you. Each chapter makes sense on its own. You do not need to read prior chapters to understand it.
+- *Where*: Read on the website. Or, if you have problems reading on the computer screen, download the manual to your computer and print it on a white paper. 
 
 ##Editing rules to keep the manual easy to read:
 
