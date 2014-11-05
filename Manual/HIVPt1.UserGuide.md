@@ -42,4 +42,4 @@ c.	*What to do on your own*: This section focuses on things you need to do on yo
 
 ####1-5. Comments, suggestions, questions
 
-We welcome reader’s comments, suggestions and questions. Please see *To Contribute* section for detail.
+We welcome reader’s comments, suggestions and questions. Please see [To Contribute] section for detail.
