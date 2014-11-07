@@ -24,9 +24,17 @@ Anyone who apply and meet the requirements on our [to become curators] page will
 
 Existing curators must take our recruiting process seriously. We respect recruiting decisions and try to avoid firing accepted curators at all costs. If you have concerns about another curator, [contact us] anytime and we will get back to you within 1 week. We will work to come up with a solution that will give everyone a chance to be curators.
 
+##What can I do if I disagree with another curator about recruiting?
+
+[Contact us] anytime and we will get back to you within 1 week. We will work to come up with a solution that both parties can accept. 
+
 ##What can I do if I think another curator is not doing a good job?
 
 [Contact us] anytime and we will get back to you within 1 week. We will work to come up with a solution that will give everyone a chance to be curators.
+
+##Where can I get help if I run into problems about recruiting?
+
+[Contact us] anytime and we will get back to you within 1 week. We will work to give you all the support you need to fulfill your role as a curator.
 
 ##Still have questions? [Contact us].
 
