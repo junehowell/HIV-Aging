@@ -6,4 +6,4 @@ For each submission, follow these steps:
   2. Click the link in the email. This will take you to the Github account for the manual. 
   3. 
 
-If you have questions, [contact us] or read the [curator reviewing rules FAQs]. 
+If you have questions, [contact us] or read the [curator review FAQs]. 
