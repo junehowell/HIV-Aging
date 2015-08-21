@@ -36,7 +36,7 @@ c.	*What to do on your own*: This section focuses on things you need to do on yo
 - *Who*: People aging with HIV, their loved ones, or anyone, really. 
 - *When*: Any time, but better before doctor’s visit. This way, you know what you need to talk to the doctor about.
 - *How*: You can read it from start to finish. Or, you can pick only the chapters that apply to you. Each chapter makes sense on its own. You do not need to read prior chapters to understand it.
-- *Where*: Read on the website by clicking the links below, in Table of Contents. Or, download the manual by clicking the download box on the left and print PDFs to read on white papers. 
+- *Where*: Read on the website by clicking chapter links below, in Table of Contents. Or, download the manual by clicking [here](https://github.com/junehowell/aging-well-with-hiv-manual/zipball/master) and print PDFs to read on white papers. 
 
 ##License
 
