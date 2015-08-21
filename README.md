@@ -46,4 +46,4 @@ c.	*What to do on your own*: This section focuses on things you need to do on yo
 - The reading skill required must not be higher than 6th grade.
 
 ##Manual Table of Contents
-- [Chapter 1: User Guide](Manual/HIVPt1.UserGuide.md)
+- [Chapter 1: User Guide](https://github.com/junehowell/aging-well-with-hiv-manual/blob/master/Manual/HIVPt1.UserGuide.md)
