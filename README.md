@@ -1,6 +1,3 @@
-HIV-Aging
-=========
-
 #Aging Well with HIV Manual
 
 ##This manual is:
