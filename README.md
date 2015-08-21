@@ -46,3 +46,13 @@ We licensed this manual as Attribution-ShareAlike. You can copy or change it for
 
 ##Table of Contents
 - [Chapter 1: User Guide](https://github.com/junehowell/aging-well-with-hiv-manual/blob/master/Manual/HIVPt1.UserGuide.md)
+- [Chapter 2: HIV](https://github.com/junehowell/aging-well-with-hiv-manual/blob/master/Manual/HIVPt2.HIV.md)
+- [Chapter 3: Pain](https://github.com/junehowell/aging-well-with-hiv-manual/blob/master/Manual/HIVPt3.Pain.md)
+- [Chapter 4: Too many pills](https://github.com/junehowell/aging-well-with-hiv-manual/blob/master/Manual/HIVPt4.TooManyPills.md)
+- [Chapter 5: Memory problem](https://github.com/junehowell/aging-well-with-hiv-manual/blob/master/Manual/HIVPt5.MemoryProblems.md)
+- [Chapter 6: Weakness/frailty](https://github.com/junehowell/aging-well-with-hiv-manual/blob/master/Manual/HIVPt5.MemoryProblems.md)
+- [Chapter 7: Weak bones](https://github.com/junehowell/aging-well-with-hiv-manual/blob/master/Manual/HIVPt5.MemoryProblems.md)
+- [Chapter 8: Heart disease](https://github.com/junehowell/aging-well-with-hiv-manual/blob/master/Manual/HIVPt8.HeartDisease.md)
+- [Chapter 9: Lung disease](https://github.com/junehowell/aging-well-with-hiv-manual/blob/master/Manual/HIVPt8.HeartDisease.md)
+- [Chapter 10: Kidney disease](https://github.com/junehowell/aging-well-with-hiv-manual/blob/master/Manual/HIVPt10.KidneyDisease.md)
+- [Chapter 11: Sexual health](https://github.com/junehowell/aging-well-with-hiv-manual/blob/master/Manual/HIVPt11.SexualHealth.md)
