@@ -2,28 +2,19 @@
 
 ##Chapter 1: User guide
 
-####1-1. This manual is:
+####1-1. Purpose and scope
 
-- *For people aging with HIV*: The manual describes common health problems that come with chronic HIV infection. Since many of these problems cannot be cured at present, the manual focuses on how to manage them, so that you can age well despite them.
+a. *Purpose*: The Aging Well with HIV Manual iswas made for people aging with chronic HIV. It describes common health problems that come with chronic HIV infection. Since many of these problems cannot be cured at present, the manual focuses on how to manage them, so that you can age well despite them.  
 
-- *For everyone*: We made this manual for people of all ages, cultures, income levels, and reading skills. To achieve this, we provide the manual for free, and keep reading skill required at the 6th grade level. If a child wants to read this manual, we want to make sure they can understand it.
+b. *Scope*: To keep the manual easy to read, we limit each chapter chapters are limited to 3 sections: 
 
-- *Focused*: To keep the manual easy to read, we limit each chapter to 3 sections: 
-  1. What is the problems? 
-  2. Why is it important? 
-  3. What should you do about it?
+1.	What is the problem? 
+2.	Why is it important?
+3.	What should I do about it?
 
-- *Concise*: The manual leaves out contents you do not need. For example, it does not include tests that will be ordered, or pills used to treat the disease. This is because your doctor will figure these out with you. 
+c. The manual leaves out contents you do not need. For example, it does not include tests that will be ordered, or pills used to treat the disease. This is because your doctor will figure these out with you. 
 
-####1-2. This manual is not:
-
-- *A guide to HIV as a disease in general*: This would make the manual long and unfocused. Instead, it focuses mostly on problems that occur in people aging with HIV and what to do about them.
-
-- *A detailed guide on common health problems in chronic HIV*: The science behind these problems are complex and not yet well understood. To describe it, the manual might become hard to understand and not everyone will be able to read it. Also, we do not need to know all the science behind it to understand what should be done.
-
-- *A replacement for doctors’ visits*: The manual gives general advice on HIV and aging issues. But, it is not specific to each person and will never be as good as your doctor’s advice. Always follow doctor’s advice, even if it is not the same as the advice in this manual. 
-
-####1-3. Outline of the manual
+####1-2. Outline of the manual
 
 Part one gives brief details about HIV and its general effects on aging. Part two outlines the most common problems with chronic HIV. Each chapter in part two is divided into 3 sections:
 
@@ -33,13 +24,18 @@ b.	*What to do with your doctor*: This section alerts you to things you need to 
 
 c.	*What to do on your own*: This section focuses on things you need to do on your own to solve the problems. Your doctor can guide you through this section and answer questions you may have. But, you will have to take the steps yourself. 
 
-####1-4. How to use the manual:
+####1-3. This manual is not:
 
-- *Who*: People aging with HIV, their loved ones, or anyone, really. 
-- *When*: Any time, but better before doctor’s visit. This way, you know what you need to talk to the doctor about.
-- *How*: You can read it from start to finish. Or, you can pick only the chapters that apply to you. Each chapter makes sense on its own. You do not need to read prior chapters to understand it.
-- *Where*: Read on the website. Or, if you have problems reading on the computer screen, download the manual to your computer and print it on a white paper. 
+- *A guide to HIV as a disease in general*: This would make the manual long and unfocused. Instead, it focuses mostly on problems that occur in people aging with HIV and what to do about them.
 
-####1-5. Comments, suggestions, questions
+- *A replacement for doctors’ visits*: The manual gives general advice on HIV and aging issues. But, it is not specific to each person and will never be as good as your doctor’s advice. Always follow doctor’s advice, even if it is not the same as the advice in this manual. 
 
-We welcome reader’s comments, suggestions and questions. Please see [To Contribute] section for detail.
+####1-4. License
+
+We licensed this manual as Attribution-ShareAlike. You can copy or change it for free, as long as you say whether changes are made, and give credit below:
+
+- [The Aging Well with HIV Manual](http://junehowell.github.io/aging-well-with-hiv-manual/) by Aroonsiri Sangarlangkarn and Jonathan S. Appelbaum is licensed under [a Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+####1-5. Users’ comments or questions
+
+We welcome uUser comments and questions are welcomed. Please comment or suggest changes based on specific page, paragraph, and line of the text. Please also include reasons for the change so that its purpose is clear. Please send comments or questions to hivaging@gmail.com

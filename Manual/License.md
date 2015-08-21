@@ -1,6 +1,6 @@
 ####License
 
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+This work is licensed under [a Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 ####You are free to:
 
@@ -9,7 +9,8 @@ This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 Intern
 
 ####As long as you follow these terms:
 
-- *Attribution*: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-- *ShareAlike*: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. 
+- *Attribution*: You must provide a link to the license, indicate if changes were made, and give credit as listed below:
 
-####For full license: [Go here](http://creativecommons.org/licenses/by-sa/4.0/)
+- [The Aging Well with HIV Manual](http://junehowell.github.io/aging-well-with-hiv-manual/) by Aroonsiri Sangarlangkarn and Jonathan S. Appelbaum is licensed under [a Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+- *ShareAlike*: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. 

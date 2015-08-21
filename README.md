@@ -4,7 +4,7 @@
 
 - *For people aging with HIV*: The manual describes common health problems that come with chronic HIV infection. Since many of these problems cannot be cured at present, the manual focuses on how to manage them, so that you can age well despite them.
 
-- *For everyone*: We made this manual for people of all ages, cultures, income levels, and reading skills. To achieve this, we provide the manual for free, and keep reading skill required at the 6th grade level. If a child wants to read this manual, we want to make sure they can understand it.
+- *For everyone*: We made this manual for people of all ages, cultures, income levels, and reading skills. To achieve this, we provide the manual for free, and keep reading skill required at the 6th grade level. 
 
 - *Focused*: To keep the manual easy to read, we limit each chapter to 3 sections: 
   1. What is the problems? 
@@ -17,7 +17,7 @@
 
 - *A guide to HIV as a disease in general*: This would make the manual long and unfocused. Instead, it focuses mostly on problems that occur in people aging with HIV and what to do about them.
 
-- *A detailed guide on common health problems in chronic HIV*: The science behind these problems are complex and not yet well understood. To describe it, the manual might become hard to understand and not everyone will be able to read it. Also, we do not need to know all the science behind it to understand what should be done.
+- *A detailed guide on common health problems in chronic HIV*: The science behind these problems are complex and not yet well understood. To describe it, the manual might become hard to understand and not everyone will be able to read it. Also, we do not need to know all the science behind HIV to understand what should be done.
 
 - *A replacement for doctors’ visits*: The manual gives general advice on HIV and aging issues. But, it is not specific to each person and will never be as good as your doctor’s advice. Always follow doctor’s advice, even if it is not the same as the advice in this manual. 
 
@@ -36,14 +36,13 @@ c.	*What to do on your own*: This section focuses on things you need to do on yo
 - *Who*: People aging with HIV, their loved ones, or anyone, really. 
 - *When*: Any time, but better before doctor’s visit. This way, you know what you need to talk to the doctor about.
 - *How*: You can read it from start to finish. Or, you can pick only the chapters that apply to you. Each chapter makes sense on its own. You do not need to read prior chapters to understand it.
-- *Where*: Read on the website. Or, if you have problems reading on the computer screen, download the manual to your computer and print it on a white paper. 
+- *Where*: Read on the website by clicking the links in Table of Contents. Or, download the manual by clicking the download box on the left and print it to read on a white paper. 
 
-##Editing rules to keep the manual easy to read:
+##License
 
-- Every chapter must be shorter than 2 pages. This way, people with short focus can still read it.
-- Every paragraph must be shorter than 7 lines. This way, people with short focus can still read it. If your paragraph is longer than 7 lines, try cutting it into smaller sections.
-- Every word must be shorter than 12 characters AND 4 syllables. Try using shorter words with the same meaning whenever you can. The only time you can break this rule is when you need to use a specific term related to HIV. In this case, you must explain the term in words shorter than 12 characters AND 4 syllables.
-- The reading skill required must not be higher than 6th grade.
+We licensed this manual as Attribution-ShareAlike. You can copy or change it for free, as long as you say whether changes are made, and give credit below:
 
-##Manual Table of Contents
+- [The Aging Well with HIV Manual](http://junehowell.github.io/aging-well-with-hiv-manual/) by Aroonsiri Sangarlangkarn and Jonathan S. Appelbaum is licensed under [a Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+##Table of Contents
 - [Chapter 1: User Guide](https://github.com/junehowell/aging-well-with-hiv-manual/blob/master/Manual/HIVPt1.UserGuide.md)
