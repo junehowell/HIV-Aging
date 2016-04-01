@@ -12,7 +12,7 @@ If HIV is not controlled, it badly damages the immune system. Your body will not
 
 ####2-3. What happens now that we have good HIV treatment?
 
-With good treatment, HIV is now a chronic disease that people simply live with, like high blood pressure. The result is that for the first time, we now have people with chronic HIV, someone who have lived with HIV for decades. This has never happened before in human history, and we are leaning about what this means for the first time.
+With good treatment, HIV is now a chronic disease that people simply live with, like high blood pressure. The result is that for the first time, we now have people with chronic HIV, someone who have lived with HIV for decades. This has never happened before in human history, and we are learning about what this means for the first time.
 
 ####2-4. What happens with chronic HIV?
 
