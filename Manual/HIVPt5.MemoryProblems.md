@@ -11,8 +11,11 @@ Age puts you at risk of memory problems from many causes. The most common cause 
 ####5-2. What happens when HIV hurts the brain?
 
 HIV can cause many problems, hurting your work, social and family life.
+
 a.	*Problems with brain function*: HIV can cause memory problems, lower reading and math skills, lower attention, and problems dealing with information. 
+
 b.	*Problems with mood*: HIV can also cause anxiety and lack of interest.
+
 c.	*Problems with movement*: HIV can also cause shaking of hands, making it hard to eat soup or to get dressed. It also causes poor leg movements leading to falls. 
 
 ###Section II. Memory problem: what to do with your doctor
