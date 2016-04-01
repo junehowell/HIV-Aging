@@ -19,6 +19,7 @@ With good treatment, HIV is now a chronic disease that people simply live with, 
 We need more studies, but it seems that chronic HIV has bad health outcomes. This stems from 2 reasons:
 
 a.	*Virus damage*: HIV can directly damage many organs, causing diseases.
+
 b.	*Side effects of HIV pills*: HIV pills continue to get better everyday, with fewer side effects. But, many HIV pills we used in the past were quite toxic. Many people aging with chronic HIV took these pills when they were younger. These pills cause long-term damages that are still present today.
 
 
