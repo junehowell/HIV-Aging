@@ -20,7 +20,7 @@ Shortness of breath can be serious. Do not chalk it up to age. Tell your doctor,
 
 ####9-4. Ask if you need vaccines
 
-Get a flu shot every year, since flu can cause serious complications in people with lung disease. Also get vaccines against pneumonia (a type of lung infection). Severe pneumonia can cause decreased function and death, so it is better to prevent it than to treat it after it happens.
+Get a flu shot every year, since flu can cause serious problems in people with lung disease. Also get vaccines against pneumonia (a type of lung infection). Severe pneumonia can cause decreased function and death, so it is better to prevent it than to treat it after it happens.
 
 ###Section III. Lung disease: what to do on your own
 
