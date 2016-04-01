@@ -38,4 +38,4 @@ We licensed this manual as Attribution-ShareAlike. You can copy or change it for
 
 ####1-5. Users’ comments or questions
 
-We welcome user comments and questions are welcomed. Please comment or suggest changes based on specific page, paragraph, and line of the text. Please also include reasons for the change so that its purpose is clear. Please send comments or questions to hivaging@gmail.com
+We welcome user comments and questions. Please comment or suggest changes based on specific page, paragraph, and line of the text. Please also include reasons for the change so that its purpose is clear. Please send comments or questions to hivaging@gmail.com
