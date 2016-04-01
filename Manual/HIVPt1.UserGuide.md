@@ -4,7 +4,7 @@
 
 ####1-1. Purpose and scope
 
-a. *Purpose*: The Aging Well with HIV Manual iswas made for people aging with chronic HIV. It describes common health problems that come with chronic HIV infection. Since many of these problems cannot be cured at present, the manual focuses on how to manage them, so that you can age well despite them.  
+a. *Purpose*: The Aging Well with HIV Manual is made for people aging with chronic HIV. It describes common health problems that come with chronic HIV infection. Since many of these problems cannot be cured at present, the manual focuses on how to manage them, so that you can age well despite them.  
 
 b. *Scope*: To keep the manual easy to read, we limit each chapter chapters are limited to 3 sections: 
 
