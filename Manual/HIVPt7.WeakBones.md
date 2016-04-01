@@ -11,6 +11,7 @@ Bone is a living organ. Throughout your life, the body tries to take away old bo
 ####7-2. How does HIV make your bones weak?
 
 a.	*HIV messes up bone function*: HIV makes the body take away bones faster than it should. It also slows down the building of new bones. 
+
 b.	*HIV pills*: Some HIV pills have a side effect of weakening bones. Since you need HIV pills, you can strengthen bones in other ways (paragraph 7-4 to 7-9). 
 
 ####7-3. What happens when bones are weak?
