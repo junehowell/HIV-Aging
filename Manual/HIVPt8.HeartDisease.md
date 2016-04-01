@@ -42,7 +42,7 @@ Smoking causes heart problems and many other diseases. If you plan to quit smoki
 
 ####8-9. Do not drink too much alcohol
 
-Too much alcohol can be bad, but a bit of alcohol can be good for some people. For example, one drink of alcohol per day can lower the risk for heart disease. One drink is a bottle or can of beer, a glass of wine, or a shot of spirits (like gin or vodka). Let your doctor know how much you are drinking. Ask if this amount is right for you. Also, make sure to drink safely, not while driving or using machines. 
+Too much alcohol can be bad, but a bit of alcohol can lower the risk of heart disease for some people. Let your doctor know how much you are drinking. Ask if this amount is right for you. Also, make sure to drink safely, not while driving or using machines. 
 
 
 
