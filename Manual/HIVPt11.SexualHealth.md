@@ -46,5 +46,5 @@ As you age, it might not be possible to get back to the sexual function you had 
 
 ####11-8. Talk with your partner
 
-Talking with your partner is the key to a healthy sex life. Be honest about what you need and how you feel. Help your partner do the same by listening to their needs and feelings. Talking will help create a sexu
+Talking with your partner is the key to a healthy sex life. Be honest about what you need and how you feel. Help your partner do the same by listening to their needs and feelings. Talking will help create a sexual experience that you both enjoy.
 
