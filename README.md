@@ -42,7 +42,7 @@ c.	*What to do on your own*: This section focuses on things you need to do on yo
 
 We licensed this manual as Attribution-ShareAlike. You can copy or change it for free, as long as you say whether changes are made, and give credit below:
 
-- [The Aging Well with HIV Manual](http://junehowell.github.io/aging-well-with-hiv-manual/) by Aroonsiri Sangarlangkarn and Jonathan S. Appelbaum is licensed under [a Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+- [The Aging Well with HIV Manual](http://junehowell.github.io/aging-well-with-hiv-manual/) by Dr. Aroonsiri Sangarlangkarn and Dr. Jonathan S. Appelbaum is licensed under [a Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 ##Table of Contents
 - [Chapter 1: User Guide](https://github.com/junehowell/aging-well-with-hiv-manual/blob/master/Manual/HIVPt1.UserGuide.md)
