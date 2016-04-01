@@ -12,7 +12,7 @@ Age puts you at risk of memory problems from many causes. The most common cause 
 
 HIV can cause many problems, hurting your work, social and family life.
 
-a.	*Problems with brain function*: HIV can cause memory problems, lower reading and math skills, lower attention, and problems dealing with information. 
+a.	*Problems with brain function*: HIV can cause memory problems, problems dealing with information, lower reading and math skills, or lower attention span. 
 
 b.	*Problems with mood*: HIV can also cause anxiety and lack of interest.
 
